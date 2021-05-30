@@ -43,7 +43,7 @@ on Ubuntu > 16.04:
 > sudo apt-get install -y nvidia-docker2
 > sudo systemctl restart docker
 ```
-Finally, install ECNET by running:
+Finally, install XCNET by running:
 ```bash
 > sudo sh install.sh
 ```
@@ -62,7 +62,7 @@ Finally, in order to process the data and create a suitable dataset run:
 ```
 
 ## Training
-To train baseline ECNET on a single GPU, create a config file similar to ```src/config/baseline.py``` and run:
+To train baseline XCNET on a single GPU, create a config file similar to ```src/config/baseline.py``` and run:
 ```bash
 > sudo sh run.sh -a train -e experiment_name -c path/to/config -d path/to/dataset
 ```
