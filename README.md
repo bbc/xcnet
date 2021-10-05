@@ -17,7 +17,7 @@ at different resolutions that learn how to perform the style transfer task in an
 realistic colour predictions. Moreover, axial attention is proposed to simplify the attention operations and to obtain 
 a fast but robust cost-effective architecture. 
 
-For more details have a look at our [paper](https://arxiv.org/abs/2105.01705) and [blog post](https://www.bbc.co.uk/rd/blog/2021-05-video-quality-artificial-intelligence-colourisation). 
+For more details have a look at our [paper](https://arxiv.org/abs/2105.01705) accepted for publication at [MMSP 2021](https://attend.ieee.org/mmsp-2021/) and [blog post](https://www.bbc.co.uk/rd/blog/2021-05-video-quality-artificial-intelligence-colourisation). 
 Please cite with the following Bibtex code:
 ```
 @article{blanch2021attention,
