@@ -1,6 +1,6 @@
 **XCNET**: Attention-based Stylisation for Exemplar Image Colourisation
 ========
-PyTorch official implementation for **XCNET** (E**X**emplar **C**olourisation **NE**twork). We introduce a fast end-to-end 
+PyTorch official implementation for **XCNET** (E**X**emplar **C**olourisation **NET**work). We introduce a fast end-to-end 
 architecture for exemplar-based image colourisation. The proposed network outperforms state-of-the-art methods in 
 both visual quality and complexity, achieving runtimes of less than a second.
 
