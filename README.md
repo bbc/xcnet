@@ -22,12 +22,15 @@ a fast but robust cost-effective architecture.
 For more details have a look at our [paper](https://ieeexplore.ieee.org/document/9733506) accepted for publication at [MMSP 2021](https://attend.ieee.org/mmsp-2021/) and [blog post](https://www.bbc.co.uk/rd/blog/2021-05-video-quality-artificial-intelligence-colourisation). 
 Please cite with the following Bibtex code:
 ```
-@article{blanch2021attention,
-  title={Attention-based Stylisation for Exemplar Image Colourisation},
-  author={Blanch, Marc Gorriz and Khalifeh, Issa and Smeaton, Alan and O'Connor, Noel and Mrak, Marta},
-  journal={arXiv preprint arXiv:2105.01705},
-  year={2021}
-}
+@INPROCEEDINGS{9733506,
+  author={Blanch, Marc Gorriz and Khalifeh, Issa and O&#x2019;Connor, Noel E. and Mrak, Marta},
+  booktitle={2021 IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP)}, 
+  title={Attention-based Stylisation for Exemplar Image Colourisation}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/MMSP53017.2021.9733506}}
 ```
 
 # Docker usage
